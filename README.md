@@ -2,6 +2,9 @@
 
 From the LREC-COLING paper [Making Sentence Embeddings Robust to User-Generated Content (Nishimwe et al., 2024)](https://aclanthology.org/2024.lrec-main.958/).
 
+🎓 This repository is part of the PhD project *Robust Neural Machine Translation of User-Generated Content*
+([lydianish-phd](https://github.com/lydianish-phd)), conducted at Inria Paris (2021-2025).
+
 ## News
 
 💥 **Demo app** on [Hugging Face Spaces](https://huggingface.co/spaces/lydianish/rolaser-demo)
