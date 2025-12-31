@@ -4,6 +4,8 @@ From the LREC-COLING paper [Making Sentence Embeddings Robust to User-Generated 
 
 🎓 This repository is part of the PhD project *Robust Neural Machine Translation of User-Generated Content*
 ([lydianish-phd](https://github.com/lydianish-phd)), conducted at Inria Paris (2021-2025).
+> ⚠️ **Note:** This repository is intended as a **demo** of the RoLASER model. It provides pre-trained models and example scripts for quick exploration.  
+> The **full research code**, including training pipelines, synthetic UGC generation, and evaluation scripts, is available in the [robust-embeddings repository](https://github.com/lydianish-phd/robust-embeddings) on the PhD organisation GitHub.
 
 ## News
 
